@@ -8,7 +8,7 @@ CPSC 408 - Assignment 4
 
 Third Normal Form Database Schema
 
-###Notes
+### Notes
 
 Please enter the filename with .csv at the end.
 
